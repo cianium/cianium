@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-cianium-172B4D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cianium)
 [![Portfolio Source](https://img.shields.io/badge/Portfolio-Explore_Project-00A6C7?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/cianium/KianKhayat)
-[![X](https://img.shields.io/badge/X-kianxtk-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kianxtk)
+[![X](https://img.shields.io/badge/X-kianxtk-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/empersiian)
 
 </div>
 
