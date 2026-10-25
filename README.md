@@ -43,11 +43,11 @@ I'm **Kian**, a student and aspiring software engineer. I enjoy turning ideas in
 
 | Project | What it does | Current status |
 | :--- | :--- | :--- |
-| **[ROMANO](https://github.com/cianium/Online-Menu)** | Restaurant-oriented digital menus, customer browsing, and management workflows. | Active development · production work remains |
+| **[Online Menu / RAMEN](https://github.com/cianium/Online-Menu)** | Multilingual QR restaurant menu, ordering and operations prototype. | Source and CI available · live commerce verification pending |
 | **[German Library](https://github.com/cianium/German-Library)** | German-learning library with content management, article tools, and learning resources. | Preview development · integration testing remains |
-| **[Personal Portfolio](https://github.com/cianium/KianKhayat)** | Multilingual Astro portfolio with project pages, articles, and Git-based content management. | Local build verified · deployment setup remains |
+| **[Personal Portfolio](https://github.com/cianium/KianKhayat)** | Multilingual Astro portfolio with projects, articles and Git-based content. | Build and browser CI passed · verify production domains |
 
-> Each repository includes its own documentation. Features and deployment status are described there rather than implied to be production-ready.
+> Project descriptions refer to repository source, not a guarantee of production readiness. Deployment, credentials and live integrations require separate verification. The barbershop and education foundations currently remain private.
 
 ### 📈 GitHub Activity
 
