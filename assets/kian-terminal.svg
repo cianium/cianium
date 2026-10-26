@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="326" viewBox="0 0 1200 326" role="img" aria-labelledby="title desc">
+<title id="title">Cianium — live developer terminal</title>
+<desc id="desc">Stylized terminal shows Kian Khayat's focus on engineering, automation, application security and continuous learning.</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#11142a"/></linearGradient>
+<linearGradient id="sep" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1ce7cd"/><stop offset=".5" stop-color="#648bff"/><stop offset="1" stop-color="#a878ff"/></linearGradient>
+<pattern id="d" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".6" fill="#99b6fd" fill-opacity=".25"/></pattern>
+<style>.blink{animation:bl 1.05s steps(1) infinite}.scan{animation:scan 10s linear infinite}@keyframes bl{50%{opacity:0}}@keyframes scan{from{transform:translateY(-260px)}to{transform:translateY(360px)}}@media(prefers-reduced-motion:reduce){.blink,.scan{animation:none}}</style>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="324" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="326" fill="url(#panel)"/>
+ <rect x="0" y="0" width="1200" height="326" fill="url(#d)"/>
+ <rect width="1200" height="48" fill="#131e30"/>
+ <path d="M0 48H1200" stroke="#486584" stroke-opacity=".45"/>
+ <circle cx="28" cy="24" r="6.5" fill="#ff6578"/>
+ <circle cx="50" cy="24" r="6.5" fill="#ffca68"/>
+ <circle cx="72" cy="24" r="6.5" fill="#2ce2b5"/>
+ <text x="103" y="29" font-family="monospace" font-size="15" fill="#8eabc8">cianium@workspace: ~/engineering</text>
+ <text x="1052" y="29" font-family="monospace" font-size="13" fill="#70e7d6">SESSION: OPEN</text>
+ <path d="M760 48v278" stroke="#566d92" stroke-opacity=".33"/>
+ <g font-family="monospace" font-size="18">
+  <text x="34" y="91" fill="#34e8d3">$</text>
+  <text x="58" y="91" fill="#e9f3ff">whoami --verbose</text>
+  <text x="34" y="130" fill="#7898be">name</text><text x="187" y="130" fill="#ecf6ff">Kian Khayat</text>
+  <text x="34" y="162" fill="#7898be">role</text><text x="187" y="162" fill="#8befd8">Student developer &amp; builder</text>
+  <text x="34" y="194" fill="#7898be">focus</text><text x="187" y="194" fill="#d1c0ff">Web / Automation / AppSec</text>
+  <text x="34" y="226" fill="#7898be">explore</text><text x="187" y="226" fill="#aacbff">AI / Systems / Cybersecurity</text>
+  <text x="34" y="264" fill="#34e8d3">$</text><text x="58" y="264" fill="#e9f3ff">build --test --iterate</text>
+  <text x="34" y="296" fill="#34e8d3">✓</text><text x="60" y="296" fill="#9bb5ce">Progress over perfection. Always learning.</text><rect x="696" y="281" width="11" height="19" fill="#29f0d8" class="blink"/>
+ </g>
+ <g font-family="monospace">
+  <text x="792" y="89" font-size="14" font-weight="700" letter-spacing="2" fill="#89aaca">/ SYSTEM SIGNALS</text>
+  <text x="791" y="135" font-size="15" fill="#e8f0ff">BUILD</text>
+  <text x="1140" y="135" font-size="14" fill="#50e8d7">ACTIVE</text>
+  <rect x="791" y="148" rx="4" width="352" height="5" fill="#1f3851"/><rect x="791" y="148" rx="4" width="286" height="5" fill="url(#sep)"/>
+  <text x="791" y="190" font-size="15" fill="#e8f0ff">LEARN</text>
+  <text x="1133" y="190" font-size="14" fill="#b6a0ff">DAILY</text>
+  <rect x="791" y="203" rx="4" width="352" height="5" fill="#1f3851"/><rect x="791" y="203" rx="4" width="310" height="5" fill="url(#sep)"/>
+  <path d="M793 249h348" stroke="#4f688b" stroke-opacity=".44"/>
+  <circle cx="800" cy="276" r="5" fill="#3ff8db"/>
+  <text x="817" y="281" font-size="13" fill="#a6bdd4">CURIOSITY IS THE CONSTANT</text>
+ </g>
+ <rect x="1" y="1" width="1198" height="324" rx="18" fill="none" stroke="#42658a" stroke-width="2"/>
+ <path d="M2 324H1198" stroke="url(#sep)" stroke-width="3"/>
+</g>
+</svg>
